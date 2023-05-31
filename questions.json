@@ -1,0 +1,267 @@
+[
+    {
+        "title": "Normal questions",
+        "questions": [
+            {
+                "question": "Have you been drinking recently?",
+                "answers": [
+                    "Yes.",
+                    "No.",
+                    "I had a few drinks.",
+                    "I prefer not to answer.",
+                    "I don't drink."
+                ]
+            },
+            {
+                "question": "Where are you heading to?",
+                "answers": [
+                    "I'm going home.",
+                    "I'm headed to work.",
+                    "I have an appointment.",
+                    "I'm running errands.",
+                    "I don't have a specific destination."
+                ]
+            },
+            {
+                "question": "What is your current occupation?",
+                "answers": [
+                    "I'm a teacher.",
+                    "I work in IT.",
+                    "I'm a nurse.",
+                    "I'm a student.",
+                    "I'm currently unemployed."
+                ]
+            },
+            {
+                "question": "Do you have any firearms in the vehicle?",
+                "answers": [
+                    "No, I don't.",
+                    "Yes, I have a legally registered firearm.",
+                    "I used to, but not anymore.",
+                    "I'm not sure if there's a firearm.",
+                    "I'd rather not answer."
+                ]
+            },
+            {
+                "question": "Are there any drugs or illegal substances in the vehicle?",
+                "answers": [
+                    "No, there aren't.",
+                    "Yes, there are.",
+                    "I'm not aware of any.",
+                    "I'd rather not answer.",
+                    "I have prescription medication."
+                ]
+            },
+            {
+                "question": "Do you have any outstanding warrants or tickets?",
+                "answers": [
+                    "No, I don't.",
+                    "Yes, I have a few.",
+                    "I'm not sure.",
+                    "I'd rather not answer.",
+                    "I have resolved all my previous tickets."
+                ]
+            },
+            {
+                "question": "Is this your vehicle?",
+                "answers": [
+                    "Yes, it's mine.",
+                    "No, it's a rental.",
+                    "It belongs to a friend.",
+                    "I'd rather not answer.",
+                    "I borrowed it from a family member."
+                ]
+            },
+            {
+                "question": "Do you have a valid driver's license?",
+                "answers": [
+                    "Yes, here it is.",
+                    "No, I forgot it at home.",
+                    "I recently applied for a renewal.",
+                    "I'd rather not answer.",
+                    "I have a temporary license."
+                ]
+            },
+            {
+                "question": "Have you ever been convicted of a felony?",
+                "answers": [
+                    "No, I haven't.",
+                    "Yes, I have.",
+                    "I have a misdemeanor.",
+                    "I'd rather not answer.",
+                    "I have a juvenile record."
+                ]
+            },
+            {
+                "question": "Do you have any medical conditions or allergies?",
+                "answers": [
+                    "No, I'm in good health.",
+                    "Yes, I have a medical condition.",
+                    "I have allergies.",
+                    "I'd rather not answer.",
+                    "I have a medical alert bracelet."
+                ]
+            },
+            {
+                "question": "Have you been involved in any accidents recently?",
+                "answers": [
+                    "No, I haven't.",
+                    "Yes, I was in a minor accident.",
+                    "Yes, I was in a major accident.",
+                    "I'd rather not answer.",
+                    "I have a clean driving record."
+                ]
+            },
+            {
+                "question": "Are you currently under the influence of any substances?",
+                "answers": [
+                    "No, I'm not.",
+                    "Yes, I'm under the influence.",
+                    "I took medication.",
+                    "I'd rather not answer.",
+                    "I just had a cup of coffee."
+                ]
+            },
+            {
+                "question": "Do you have any open containers of alcohol in the vehicle?",
+                "answers": [
+                    "No, I don't.",
+                    "Yes, I do.",
+                    "I finished my drink.",
+                    "I'd rather not answer.",
+                    "I have a sealed bottle in the trunk."
+                ]
+            },
+            {
+                "question": "Have you ever had your driver's license suspended or revoked?",
+                "answers": [
+                    "No, I haven't.",
+                    "Yes, it was suspended.",
+                    "Yes, it was revoked.",
+                    "I'd rather not answer.",
+                    "My license was suspended but reinstated."
+                ]
+            },
+            {
+                "question": "Do you have any previous convictions for driving under the influence?",
+                "answers": [
+                    "No, I don't.",
+                    "Yes, I have one.",
+                    "Yes, I have multiple.",
+                    "I'd rather not answer.",
+                    "I have a previous DUI conviction."
+                ]
+            },
+            {
+                "question": "Do you consent to a search of your vehicle?",
+                "answers": [
+                    "Yes, go ahead.",
+                    "No, I don't consent.",
+                    "I'd like to know the reason.",
+                    "I'd rather not answer.",
+                    "I want to call my lawyer first."
+                ]
+            },
+            {
+                "question": "Do you have any passengers in the vehicle?",
+                "answers": [
+                    "No, I'm alone.",
+                    "Yes, I have one passenger.",
+                    "Yes, I have multiple passengers.",
+                    "I'd rather not answer.",
+                    "I have a child in the backseat."
+                ]
+            },
+            {
+                "question": "Are you wearing your seatbelt?",
+                "answers": [
+                    "Yes, I am.",
+                    "No, I'm not.",
+                    "I just took it off.",
+                    "I'd rather not answer.",
+                    "I have a medical exemption."
+                ]
+            },
+            {
+                "question": "Do you know why I pulled you over?",
+                "answers": [
+                    "No, I'm not sure.",
+                    "Yes, I think I know why.",
+                    "I have a guess.",
+                    "I'd rather not answer.",
+                    "You didn't mention the reason yet."
+                ]
+            },
+            {
+                "question": "Do you have any firearms or weapons on your person?",
+                "answers": [
+                    "No, I don't.",
+                    "Yes, I have a legally concealed firearm.",
+                    "Yes, I have a knife.",
+                    "I'd rather not answer.",
+                    "I have pepper spray for self-defense."
+                ]
+            },
+            {
+                "question": "Have you ever been arrested before?",
+                "answers": [
+                    "No, I haven't.",
+                    "Yes, I have.",
+                    "I've been detained but not arrested.",
+                    "I'd rather not answer.",
+                    "I have a juvenile record."
+                ]
+            },
+            {
+                "question": "Do you have proof of insurance for this vehicle?",
+                "answers": [
+                    "Yes, here it is.",
+                    "No, I forgot it at home.",
+                    "I recently renewed my policy.",
+                    "I'd rather not answer.",
+                    "I have electronic proof on my phone."
+                ]
+            },
+            {
+                "question": "Do you have any prior warnings or citations?",
+                "answers": [
+                    "No, I don't.",
+                    "Yes, I have a few.",
+                    "I'm not sure.",
+                    "I'd rather not answer.",
+                    "I received a warning last month."
+                ]
+            },
+            {
+                "question": "Do you have a valid vehicle registration?",
+                "answers": [
+                    "Yes, here it is.",
+                    "No, I forgot it at home.",
+                    "I recently renewed it.",
+                    "I'd rather not answer.",
+                    "My registration is in the glove compartment."
+                ]
+            },
+            {
+                "question": "Do you have a history of violence or restraining orders?",
+                "answers": [
+                    "No, I don't.",
+                    "Yes, I have a history.",
+                    "I have a restraining order against me.",
+                    "I'd rather not answer.",
+                    "I have a history of domestic violence."
+                ]
+            },
+            {
+                "question": "Have you ever been involved in a hit-and-run incident?",
+                "answers": [
+                    "No, I haven't.",
+                    "Yes, I have.",
+                    "I witnessed a hit-and-run.",
+                    "I'd rather not answer.",
+                    "I was involved in a minor fender bender."
+                ]
+            }
+        ]
+    }
+]

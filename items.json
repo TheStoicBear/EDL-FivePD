@@ -1,0 +1,363 @@
+[
+	{
+	  "name": "pen",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "phone",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "notebook",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 0
+	},
+	{
+	  "name": "marijuana",
+	  "isIllegal": true,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "watch",
+	  "isIllegal": false,
+	  "multiplier": 20,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "ID card",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "wallet",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "headphones",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "keys",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "knife",
+	  "isIllegal": true,
+	  "multiplier": 25,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "paintbrush",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "book",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 0
+	},
+	{
+	  "name": "baseball",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 0
+	},
+	{
+	  "name": "sunglasses",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "backpack",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "credit card",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "shoes",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "camera",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "headset",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "perfume",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "guitar",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "handbag",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "camera lens",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "painting",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "bracelet",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "illegal drug",
+	  "isIllegal": true,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "necklace",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "computer",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "baseball cap",
+	  "isIllegal": false,
+	  "multiplier": 40,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "smartwatch",
+	  "isIllegal": false,
+	  "multiplier": 20,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "laptop",
+	  "isIllegal": false,
+	  "multiplier": 20,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "stolen artwork",
+	  "isIllegal": true,
+	  "multiplier": 20,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "counterfeit currency",
+	  "isIllegal": true,
+	  "multiplier": 20,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "unregistered firearm",
+	  "isIllegal": true,
+	  "multiplier": 20,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "forged passport",
+	  "isIllegal": true,
+	  "multiplier": 17,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "hacked personal data",
+	  "isIllegal": true,
+	  "multiplier": 17,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "narcotics",
+	  "isIllegal": true,
+	  "multiplier": 17,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "stolen jewelry",
+	  "isIllegal": true,
+	  "multiplier": 17,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "pirated software",
+	  "isIllegal": true,
+	  "multiplier": 15,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "counterfeit designer handbag",
+	  "isIllegal": true,
+	  "multiplier": 15,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "stolen electronics",
+	  "isIllegal": true,
+	  "multiplier": 15,
+	  "itemLocation": 2
+	},
+	{
+	  "name": "rare stamp collection",
+	  "isIllegal": false,
+	  "multiplier": 15,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "vintage vinyl records",
+	  "isIllegal": false,
+	  "multiplier": 15,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "antique furniture",
+	  "isIllegal": false,
+	  "multiplier": 15,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "rare gemstone",
+	  "isIllegal": false,
+	  "multiplier": 15,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "limited edition sports memorabilia",
+	  "isIllegal": false,
+	  "multiplier": 10,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "collectible comic books",
+	  "isIllegal": false,
+	  "multiplier": 10,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "rare coins",
+	  "isIllegal": false,
+	  "multiplier": 10,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "vintage watch",
+	  "isIllegal": false,
+	  "multiplier": 10,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "rare painting",
+	  "isIllegal": false,
+	  "multiplier": 10,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "rare book",
+	  "isIllegal": false,
+	  "multiplier": 10,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "diamond necklace",
+	  "isIllegal": false,
+	  "multiplier": 50,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "designer handbag",
+	  "isIllegal": false,
+	  "multiplier": 50,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "expensive champagne",
+	  "isIllegal": false,
+	  "multiplier": 30,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "platinum watch",
+	  "isIllegal": false,
+	  "multiplier": 5,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "designer clothing",
+	  "isIllegal": false,
+	  "multiplier": 5,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "fine art collection",
+	  "isIllegal": false,
+	  "multiplier": 5,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "Rolex watch",
+	  "isIllegal": false,
+	  "multiplier": 30,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "Louis Vuitton handbag",
+	  "isIllegal": false,
+	  "multiplier": 30,
+	  "itemLocation": 1
+	},
+	{
+	  "name": "Apple iPhone",
+	  "isIllegal": false,
+	  "multiplier": 20,
+	  "itemLocation": 1
+	}
+  ]
+  
